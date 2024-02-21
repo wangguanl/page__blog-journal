@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BLtW6DS9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"思想/观/index.md","filePath":"思想/观/index.md","lastUpdated":1700127233000}'),n={name:"思想/观/index.md"};function r(o,s,d,c,i,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};

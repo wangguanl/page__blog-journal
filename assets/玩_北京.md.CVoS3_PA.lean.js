@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as d,ae as n}from"./chunks/framework.BLtW6DS9.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"玩/北京.md","filePath":"玩/北京.md","lastUpdated":1674093715000}'),s={name:"玩/北京.md"},p=n("",27),l=[p];function e(b,_,h,c,r,f){return d(),i("div",null,l)}const o=a(s,[["render",e]]);export{g as __pageData,o as default};

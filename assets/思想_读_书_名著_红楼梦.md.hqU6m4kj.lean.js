@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BLtW6DS9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"思想/读/书/名著/红楼梦.md","filePath":"思想/读/书/名著/红楼梦.md","lastUpdated":1700127233000}'),r={name:"思想/读/书/名著/红楼梦.md"};function o(s,c,n,_,d,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

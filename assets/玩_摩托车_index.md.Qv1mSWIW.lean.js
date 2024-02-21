@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BLtW6DS9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"玩/摩托车/index.md","filePath":"玩/摩托车/index.md","lastUpdated":1692241499000}'),n={name:"玩/摩托车/index.md"};function r(o,s,d,c,i,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};

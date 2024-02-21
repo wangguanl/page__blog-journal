@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BLtW6DS9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"玩/旅游/日本任天堂世界.md","filePath":"玩/旅游/日本任天堂世界.md","lastUpdated":1672981765000}'),r={name:"玩/旅游/日本任天堂世界.md"};function _(o,s,c,n,d,p){return a(),t("div")}const f=e(r,[["render",_]]);export{m as __pageData,f as default};

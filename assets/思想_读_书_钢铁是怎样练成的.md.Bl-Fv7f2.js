@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BLtW6DS9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"思想/读/书/钢铁是怎样练成的.md","filePath":"思想/读/书/钢铁是怎样练成的.md","lastUpdated":1700127233000}'),_={name:"思想/读/书/钢铁是怎样练成的.md"};function r(o,s,c,n,d,p){return a(),t("div")}const f=e(_,[["render",r]]);export{m as __pageData,f as default};
