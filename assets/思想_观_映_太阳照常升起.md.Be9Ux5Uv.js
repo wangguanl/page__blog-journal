@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BZh4rW1z.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"思想/观/映/太阳照常升起.md","filePath":"思想/观/映/太阳照常升起.md","lastUpdated":1743419989000}'),r={name:"思想/观/映/太阳照常升起.md"};function o(s,_,c,n,d,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
